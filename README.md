@@ -4,6 +4,7 @@ Informationen die im Mainstream nicht geteilt werden
 Hier entsteht gerade eine Informationsplattform rund um das Thema Corona
 
 Falls Ihnen die ganze Geschichte auch langsam seltsam vorkommt oder Sie aktiv werden möchten hier einige Anregungen:
+<br/><br/><br/>
 
 <h2>Initiativen</h2>
 
@@ -18,12 +19,12 @@ Falls Ihnen die ganze Geschichte auch langsam seltsam vorkommt oder Sie aktiv we
 <a href="https://www.bag-ivi-swissmedic-fall.ch/index.html">BAG-IVI-Swissmedic-Fall, jetzt klagen: die Corona-Massnahmen stoppen und den Verantwortlichen die Möglichkeit geben, sich zu erklären. Unterstützer/innen willkommen</a>
 
 <a href="https://www.bag-ivi-swissmedic-fall.ch/01_argumentation.htm">dazu gehörende Argumentation</a>
-
+<br/><br/><br/>
 
 <h2>Falls Sie verzeifelt sind:</h2>
 
 <a href="http://www.lebensmut-hotline.de/">Lebensmut Hotline</a>
-
+<br/><br/><br/>
 
 <h2>Partei Alternativen zu denen die gerade unser Land ruinieren (dies sollen keine Empfehlungen sein! Jeder ist selbst dafür verantwortlich für die inhaltliche Prüfung)</h2>
 
@@ -35,7 +36,7 @@ https://diebasis-partei.de/
 
 dieBasis Partei Baden-Württemberg - Deine MitMachPartei<br>
 https://diebasis-bw.de/
-
+<br/><br/><br/>
 
 <h2>Weitere:</h2>
 
