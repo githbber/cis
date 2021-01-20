@@ -1,2 +1,2 @@
 # Die Corona Info-Seite
-Website
+Informationen die im Mainstream nicht geteilt werden
