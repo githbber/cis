@@ -7,28 +7,22 @@ Falls Ihnen die ganze Geschichte auch langsam seltsam vorkommt oder Sie aktiv we
 
 <h2>Initiativen</h2>
 
-Markus Söder: treten Sie zurück - Online-Petition<br>
-https://www.openpetition.de/petition/online/markus-soeder-treten-sie-zurueck
+<a href="https://www.openpetition.de/petition/online/markus-soeder-treten-sie-zurueck">Markus Söder: treten Sie zurück - Online-Petition</a>
 
-Volksbegehren Landtag abberufen – Mit Ihren 25 000 Stimmen starten wir den Volksentscheid<br>
-https://buendnis-landtag-abberufen.de
+<a href="https://buendnis-landtag-abberufen.de">Volksbegehren Landtag abberufen – Mit Ihren 25 000 Stimmen starten wir den Volksentscheid</a>
 
-Kampagne Merkels Mega Lockdown stoppen<br>
-https://www.civilpetition.de/kampagne/merkels-mega-lockdown-stoppen/startseite
+<a href="https://www.civilpetition.de/kampagne/merkels-mega-lockdown-stoppen/startseite">Kampagne Merkels Mega Lockdown stoppen</a>
 
-Projekt Immanuel<br>
-https://projekt-immanuel.de/Startseite
+<a href="https://projekt-immanuel.de/Startseite">Projekt Immanuel</a>
 
-BAG-IVI-Swissmedic-Fall, jetzt klagen: die Corona-Massnahmen stoppen und den Verantwortlichen die Möglichkeit geben, sich zu erklären. Unterstützer/innen willkommen<br>
-https://www.bag-ivi-swissmedic-fall.ch/index.html
-dazu gehörend:<br>
-Argumentation<br>
-https://www.bag-ivi-swissmedic-fall.ch/01_argumentation.htm
+<a href="https://www.bag-ivi-swissmedic-fall.ch/index.html">BAG-IVI-Swissmedic-Fall, jetzt klagen: die Corona-Massnahmen stoppen und den Verantwortlichen die Möglichkeit geben, sich zu erklären. Unterstützer/innen willkommen</a>
+
+<a href="https://www.bag-ivi-swissmedic-fall.ch/01_argumentation.htm">dazu gehörende Argumentation</a>
+
 
 <h2>Falls Sie verzeifelt sind:</h2>
 
-Lebensmut Hotline<br>
-http://www.lebensmut-hotline.de/*
+<a href="http://www.lebensmut-hotline.de/">Lebensmut Hotline</a>
 
 
 <h2>Partei Alternativen zu denen die gerade unser Land ruinieren (dies sollen keine Empfehlungen sein! Jeder ist selbst dafür verantwortlich für die inhaltliche Prüfung)</h2>
@@ -42,3 +36,8 @@ https://diebasis-partei.de/
 dieBasis Partei Baden-Württemberg - Deine MitMachPartei<br>
 https://diebasis-bw.de/
 
+
+<h2>Weitere:</h2>
+
+<a href=""></a>
+<a href=""></a>
